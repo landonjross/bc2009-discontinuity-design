@@ -7,3 +7,6 @@ An implementation of the discontinuity design estimator and results from Blundel
 3. Run DD.m or DD_parfeval.m
 4. Grab a sandwich or cofee.
 5. Check results.xlsx or results_parallel.xlsx
+
+# Cites
+Blundell, Richard, and Monica Costa Dias. "Alternative approaches to evaluation in empirical microeconomics." Journal of Human Resources 44, no. 3 (2009): 565-640.
